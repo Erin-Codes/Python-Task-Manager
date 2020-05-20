@@ -1,0 +1,26 @@
+Total number of users:	4
+Total tasks generated:	9
+
+admin:	3 tasks in total
+	33.33333333333333% of total tasks
+	Percentage of users incomplete tasks	0.0%
+	Percentage of users complete tasks	100.0%
+	Users incomplete and overdue tasks:	0.0%
+
+woo:	3 tasks in total
+	33.33333333333333% of total tasks
+	Percentage of users incomplete tasks	100.0%
+	Percentage of users complete tasks	0.0%
+	Users incomplete and overdue tasks:	1.0%
+
+steve:	2 tasks in total
+	22.22222222222222% of total tasks
+	Percentage of users incomplete tasks	50.0%
+	Percentage of users complete tasks	50.0%
+	Users incomplete and overdue tasks:	0.5%
+
+liano:	1 tasks in total
+	11.11111111111111% of total tasks
+	Percentage of users incomplete tasks	100.0%
+	Percentage of users complete tasks	0.0%
+	Users incomplete and overdue tasks:	1.0%

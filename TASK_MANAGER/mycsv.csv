@@ -1,0 +1,10 @@
+Assigned to,Task number,Task,Description of task,Task Due date,Date assigned,Complete
+admin,1,Register Users with TaskManager.py,Use taskManager.py to add the usernames and passwords for all team members that will be using this program,2020-04-20,2020-04-10,Yes
+admin,2,Assign initial tasks,Use TaskManager.py to assign each team member with appropriate tasks,2020-04-25,2020-04-11,Yes
+woo,3,Grooom,Groom the pets in section D,2020-04-27,2020-04-22,No
+admin,4,boom,bang,2020-04-28,2020-04-20,Yes
+steve,5,Print,Print out all overdue tasks,2020-04-23,2020-04-23,No
+woo,6,Restart,Restart all computers,2020-04-25,2020-04-23,No
+steve,7,Clean,Sweep floor,2020-04-27,2020-04-23,Yes
+liano,8,Fix,Fix the broken cages,2020-04-25,2020-04-23,No
+woo,9,pls,work,2020-04-23,2020-04-23,No

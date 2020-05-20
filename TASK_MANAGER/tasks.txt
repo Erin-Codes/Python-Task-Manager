@@ -1,0 +1,80 @@
+Assigned to: 		admin
+Task Number:		1
+Task:			Register Users with TaskManager.py
+Task description:	Use taskManager.py to add the usernames and passwords for all team members that will be using this program.
+TASK1. Due Date:	2020-04-20
+Date asssigned:		2020-04-10
+Task1 Complete?:	Yes
+
+
+Assigned to: 		admin
+Task Number:		2
+Task:			Assign initial tasks
+Task description:	Use TaskManager.py to assign each team member with appropriate tasks
+TASK2. Due Date:	2020-04-25
+Date asssigned:		2020-04-11
+Task2 Complete?:	Yes
+
+
+Assigned to:		woo
+Task Number:		3
+Task:			Grooom
+Description of task:	Groom the pets in section D
+TASK3. Due date:	2020-04-27
+Date assigned:		2020-04-12
+Task3 Complete?:	No
+
+
+Assigned to:		admin
+Task Number:		4
+Task:			boom
+Description of task:	bang
+TASK4. Due date:	2020-04-28
+Date assigned:		2020-04-13
+Task4 Complete?:	Yes
+
+
+Assigned to:		steve
+Task Number:		5
+Task:			Print
+Description of task:	Print out all overdue tasks.
+TASK5. Due date:	2020-04-23
+Date assigned:		2020-04-14
+Task5 Complete?:	No
+
+
+Assigned to:		woo
+Task Number:		6
+Task:			Restart
+Description of task:	Restart all computers
+TASK6. Due date:	2020-04-25
+Date assigned:		2020-04-15
+Task6 Complete?:	No
+
+
+Assigned to:		steve
+Task Number:		7
+Task:			Clean
+Description of task:	Sweep floor
+TASK7 Due date:		2020-04-27
+Date assigned:		2020-04-16
+Task7 Complete?:	Yes
+
+
+Assigned to:		liano
+Task Number:		8
+Task:			Fix
+Description of task:	Fix the broken cages
+TASK8. Due date:	2020-04-25
+Date assigned:		2020-04-17
+Task8 Complete?:	No
+
+
+Assigned to:		woo
+Task Number:		9
+Task:			pls
+Description of task:	work
+TASK9. Due date:	2020-04-23
+Date assigned:		2020-04-18
+Task9 Complete?:	No
+

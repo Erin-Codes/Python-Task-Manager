@@ -1,0 +1,5 @@
+Total tasks generated:	9
+Number of completed tasks:	4
+Number of incomplete tasks:	5
+Not completed and overdue:	5
+tasks that are incomplete and overdue:	55.55555555555556
